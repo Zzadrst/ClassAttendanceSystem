@@ -1,0 +1,40 @@
+.user_btn_orange{
+    color: orange;
+}
+
+.btn-outline-danger.border-danger {
+    color: orange; 
+    border-color: orange; 
+}
+
+.btn-outline-danger.border-danger:hover {
+    background-color: orange; 
+    color: #fff; 
+}
+
+.btn-info {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-info:hover {
+  background-color: orange; 
+  color: #fff; 
+}
+
+
+*{
+  font-family: "Lato", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.h-font {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
